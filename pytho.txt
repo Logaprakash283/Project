@@ -1,2 +1,6 @@
 loga
+<<<<<<< HEAD
 how are you by loga
+=======
+how are you      by manager
+>>>>>>> e8890ca87a970dc45df2706d317e593b31f98ec9
